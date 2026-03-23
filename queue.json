@@ -16,8 +16,9 @@
       "description": "Unlimited — Khusus Owner"
     },
     "password": "UDZbWmtzeHXryFwJ",
-    "status": "pending",
+    "status": "creating",
     "requestedAt": 1774241666623,
-    "requestedAtStr": "23/3/2026, 11.54.26"
+    "requestedAtStr": "23/3/2026, 11.54.26",
+    "creatingAt": 1774241667564
   }
 }
