@@ -2,28 +2,22 @@
   "zxxo_1cd59863ec373e9c4aa1a4a00281": {
     "apiKey": "zxxo_1cd59863ec373e9c4aa1a4a00281",
     "safeKey": "zxxo_1cd59863ec373e9c4aa1a4a00281",
-    "serverName": "paksoi",
-    "plan": "free",
+    "serverName": "paomsyyy",
+    "plan": "owner",
     "planDetails": {
-      "name": "Free",
-      "ram": 5120,
-      "disk": 10240,
-      "cpu": 100,
-      "databases": 1,
+      "name": "Owner",
+      "ram": 0,
+      "disk": 0,
+      "cpu": 0,
+      "databases": 0,
       "backups": 0,
       "price": 0,
-      "maxPerMonth": 1,
-      "description": "5GB RAM · 10GB Disk · 1 Core"
+      "ownerOnly": true,
+      "description": "Unlimited — Khusus Owner"
     },
-    "password": "tKytbXqXNpJCuvDY",
-    "status": "deleted",
-    "requestedAt": 1774236169044,
-    "requestedAtStr": "23/3/2026, 10.22.49",
-    "lastFreeAt": 1774236169087,
-    "creatingAt": 1774236172111,
-    "failedAt": 1774236173133,
-    "errorMessage": "[422] The Command Run variable field is required.",
-    "deleteRequestedAt": 1774237117850,
-    "deletedAt": 1774237122785
+    "password": "NHR7@SYFgUrXhB5w",
+    "status": "pending",
+    "requestedAt": 1774237809265,
+    "requestedAtStr": "23/3/2026, 10.50.09"
   }
 }
