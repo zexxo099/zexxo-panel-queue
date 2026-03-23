@@ -16,7 +16,7 @@
       "description": "Unlimited — Khusus Owner"
     },
     "password": "UDZbWmtzeHXryFwJ",
-    "status": "deleting",
+    "status": "deleted",
     "requestedAt": 1774241666623,
     "requestedAtStr": "23/3/2026, 11.54.26",
     "creatingAt": 1774241667564,
@@ -35,6 +35,8 @@
     "serverAllocation": 98,
     "startupCmd": "npm start",
     "dockerImage": "ghcr.io/pterodactyl/yolks:nodejs_22",
-    "deleteRequestedAt": 1774300631834
+    "deleteRequestedAt": 1774300631834,
+    "deletedAt": 1774300657811,
+    "deleteError": "[522] Request failed with status code 522"
   }
 }
