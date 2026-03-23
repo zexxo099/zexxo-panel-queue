@@ -16,9 +16,24 @@
       "description": "Unlimited — Khusus Owner"
     },
     "password": "UDZbWmtzeHXryFwJ",
-    "status": "creating",
+    "status": "active",
     "requestedAt": 1774241666623,
     "requestedAtStr": "23/3/2026, 11.54.26",
-    "creatingAt": 1774241667564
+    "creatingAt": 1774241667564,
+    "createdAt": 1774241669061,
+    "createdAtStr": "23/3/2026, 11.54.29",
+    "panelUrl": "https://aldopaokprivate.fiffbackend.online",
+    "username": "paoksyyypogt0",
+    "email": "paoksyyypogt0@zexxo.panel",
+    "pteroPassword": "ZXfb9C$vP$M9KVsBJK$H",
+    "pteroUserId": 4,
+    "pteroUserUuid": "1f4eae7f-b996-479f-aa9f-0ca0f616e5d4",
+    "pteroServerId": 4,
+    "pteroServerUuid": "fab83456-1b85-4d1d-bd4e-e43f15d18461",
+    "serverIdentifier": "fab83456",
+    "serverNode": 1,
+    "serverAllocation": 98,
+    "startupCmd": "npm start",
+    "dockerImage": "ghcr.io/pterodactyl/yolks:nodejs_22"
   }
 }
