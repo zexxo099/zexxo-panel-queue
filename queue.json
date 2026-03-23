@@ -16,7 +16,7 @@
       "description": "Unlimited — Khusus Owner"
     },
     "password": "UDZbWmtzeHXryFwJ",
-    "status": "active",
+    "status": "deleting",
     "requestedAt": 1774241666623,
     "requestedAtStr": "23/3/2026, 11.54.26",
     "creatingAt": 1774241667564,
@@ -34,6 +34,7 @@
     "serverNode": 1,
     "serverAllocation": 98,
     "startupCmd": "npm start",
-    "dockerImage": "ghcr.io/pterodactyl/yolks:nodejs_22"
+    "dockerImage": "ghcr.io/pterodactyl/yolks:nodejs_22",
+    "deleteRequestedAt": 1774300631834
   }
 }
