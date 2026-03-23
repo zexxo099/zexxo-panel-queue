@@ -16,12 +16,13 @@
       "description": "5GB RAM · 10GB Disk · 1 Core"
     },
     "password": "tKytbXqXNpJCuvDY",
-    "status": "failed",
+    "status": "deleting",
     "requestedAt": 1774236169044,
     "requestedAtStr": "23/3/2026, 10.22.49",
     "lastFreeAt": 1774236169087,
     "creatingAt": 1774236172111,
     "failedAt": 1774236173133,
-    "errorMessage": "[422] The Command Run variable field is required."
+    "errorMessage": "[422] The Command Run variable field is required.",
+    "deleteRequestedAt": 1774237117850
   }
 }
