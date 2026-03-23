@@ -2,7 +2,7 @@
   "zxxo_1cd59863ec373e9c4aa1a4a00281": {
     "apiKey": "zxxo_1cd59863ec373e9c4aa1a4a00281",
     "safeKey": "zxxo_1cd59863ec373e9c4aa1a4a00281",
-    "serverName": "paomsyyy",
+    "serverName": "paoksyyy",
     "plan": "owner",
     "planDetails": {
       "name": "Owner",
@@ -15,12 +15,9 @@
       "ownerOnly": true,
       "description": "Unlimited — Khusus Owner"
     },
-    "password": "NHR7@SYFgUrXhB5w",
-    "status": "failed",
-    "requestedAt": 1774237809265,
-    "requestedAtStr": "23/3/2026, 10.50.09",
-    "creatingAt": 1774237810010,
-    "failedAt": 1774237811126,
-    "errorMessage": "[422] The Command Run variable field is required."
+    "password": "UDZbWmtzeHXryFwJ",
+    "status": "pending",
+    "requestedAt": 1774241666623,
+    "requestedAtStr": "23/3/2026, 11.54.26"
   }
 }
