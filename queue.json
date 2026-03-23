@@ -16,9 +16,10 @@
       "description": "5GB RAM · 10GB Disk · 1 Core"
     },
     "password": "tKytbXqXNpJCuvDY",
-    "status": "pending",
+    "status": "creating",
     "requestedAt": 1774236169044,
     "requestedAtStr": "23/3/2026, 10.22.49",
-    "lastFreeAt": 1774236169087
+    "lastFreeAt": 1774236169087,
+    "creatingAt": 1774236172111
   }
 }
