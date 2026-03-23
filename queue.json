@@ -16,9 +16,11 @@
       "description": "Unlimited — Khusus Owner"
     },
     "password": "NHR7@SYFgUrXhB5w",
-    "status": "creating",
+    "status": "failed",
     "requestedAt": 1774237809265,
     "requestedAtStr": "23/3/2026, 10.50.09",
-    "creatingAt": 1774237810010
+    "creatingAt": 1774237810010,
+    "failedAt": 1774237811126,
+    "errorMessage": "[422] The Command Run variable field is required."
   }
 }
